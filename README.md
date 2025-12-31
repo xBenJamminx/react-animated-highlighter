@@ -118,6 +118,17 @@ function App() {
 - React 17+
 - GSAP 3+ (peer dependency)
 
+## AI Assistant Integration
+
+This package includes a `CLAUDE.md` file with detailed instructions for AI coding assistants (Claude, GPT, Copilot, etc.). When you ask an AI to integrate this package into your project, it can read these instructions to provide accurate, copy-paste ready code.
+
+The AI instructions cover:
+- Quick setup examples
+- All props with descriptions
+- Integration with Framer Motion
+- Recommended color palettes
+- Common patterns for hero sections, landing pages, etc.
+
 ## License
 
 MIT © Ben Jammin
