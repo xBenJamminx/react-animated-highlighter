@@ -5,6 +5,7 @@ An animated text highlighter component for React with smooth GSAP animations. Pe
 ![Demo](./assets/demo.svg)
 
 [![npm version](https://img.shields.io/npm/v/react-animated-highlighter)](https://www.npmjs.com/package/react-animated-highlighter)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-ff5e5b?logo=ko-fi)](https://ko-fi.com/xBenJamminx)
 
 ## Features
 
